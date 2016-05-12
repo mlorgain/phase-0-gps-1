@@ -4,14 +4,21 @@
 __Hey, Myra! This should be bolded text__
 sdfs
 *Hey, this should be italics*
-sdfsdfs
-sdfsd
+
+
 ###HEy here's another change for conflict###
+
+
+
+###small conflict1###
+
 [Link to Facebook](facebook.com)
-## 33333333333 #3
-sdfsdf
-###this is another things###
+
+###this is another thing###
+
 ![Image screenshot](/image-screenshot.png)
-sdfsdfsd
+
+
+
 ##adding the second change for conflict##
-sdfsfsdfsdfs
+
